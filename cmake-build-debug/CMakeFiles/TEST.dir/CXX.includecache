@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/Fonctions_auxiliaires.h
+
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/day4_2020.h
+
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+cmath
+-
+cstring
+-
+map
+-
+day4_2020.h
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/day4_2020.h
+Fonctions_auxiliaires.h
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/Fonctions_auxiliaires.h
+

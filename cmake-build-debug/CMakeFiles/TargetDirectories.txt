@@ -1,0 +1,3 @@
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/cmake-build-debug/CMakeFiles/TEST.dir
+/mnt/c/Users/lempe/Desktop/Debian/Advent_Of_Code/cmake-build-debug/CMakeFiles/edit_cache.dir
